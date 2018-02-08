@@ -1,0 +1,11 @@
+1. Run server.py with 
+		FLASK_APP=server.py flask run 
+   separately, and then run React app. Since I am doing another React project on another port, so I change this port to 3010.
+
+2. install flask_cors python module first
+
+3. getDummySentence() function in App.js is the one communicates with flask server.
+
+
+Best,
+Alice
